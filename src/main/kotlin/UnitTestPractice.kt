@@ -61,3 +61,4 @@ class  Rectangle(val height : Int, val width : Int) {
         val rectangle = Rectangle(98327482, 32480)
         println(rectangle.isSquare)
     }
+// update
