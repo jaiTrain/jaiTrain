@@ -7,9 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaitrain&label=Profile%20views&color=0e75b6&style=flat" alt="jaitrain" /> </p>
 
-- 🔭 I’m currently working on **ChatBot Application for a client**
+- 🧑🏻‍💻 I’m currently working on **ChatBot Application for a client**
 
-- 💬 Ask me about **Anything Hard 😎**
+- ⚡️ Fun fact - Ask me about **Anything Hard 😎**
 
 - 📫 How to reach me **jaichaudhary1024@gmail.com**
 
